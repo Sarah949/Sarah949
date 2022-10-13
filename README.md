@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarah
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning programing
+- 🌱 I’m currently Mobile app developer
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
