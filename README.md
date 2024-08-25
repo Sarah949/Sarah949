@@ -13,11 +13,18 @@ I specialize in developing mobile applications using the following technologies:
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 📊 GitHub Stats
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah949&theme=blue-green)
+
+### 🛠️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah949&theme=blue-green)
 
 
 
 
-- 
+
+
+
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
