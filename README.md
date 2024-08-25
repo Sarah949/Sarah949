@@ -19,6 +19,11 @@ I specialize in developing mobile applications using the following technologies:
 ### 🛠️ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah949&theme=blue-green)
 
+<!---- ### 🔗 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sarah-almahfoudh-623a93162)
+
+--->
 
 
 
