@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sarah
 - 👀 I’m interested in programing
 - 🌱 I’m currently Mobile app developer
+- https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
