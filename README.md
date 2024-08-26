@@ -3,7 +3,10 @@
 ### 👀 About Me
 I'm a passionate Mobile App Developer with a keen interest in programming and creating dynamic, user-friendly applications. Currently, I am focused on expanding my expertise in Flutter and React Native.
 
-### 🌱 Skills & Technologies
+### 🌱 Current Focus
+- **Learning**: Exploring advanced features in Flutter and React Native.
+
+### 🛠️ Skills
 I specialize in developing mobile applications using the following technologies:
 
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -19,8 +22,9 @@ I specialize in developing mobile applications using the following technologies:
 ### 🛠️ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah949&theme=blue-green)
 
-### 📈 Repository Activity
-![Repository Activity](https://starchart.cc/Sarah949/my-app.svg)
+
+
+
 
 <!---- ### 🔗 Connect with Me
 
