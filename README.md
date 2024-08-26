@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Sarah
 
 ### 👀 About Me
-I'm a passionate Mobile App Developer with a keen interest in programming and creating dynamic, user-friendly applications.
+I'm a passionate Mobile App Developer with a keen interest in programming and creating dynamic, user-friendly applications. Currently, I am focused on expanding my expertise in Flutter and React Native.
 
 ### 🌱 Skills & Technologies
 I specialize in developing mobile applications using the following technologies:
@@ -18,6 +18,9 @@ I specialize in developing mobile applications using the following technologies:
 
 ### 🛠️ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah949&theme=blue-green)
+
+### 📈 Repository Activity
+![Repository Activity](https://starchart.cc/Sarah949/my-app.svg)
 
 <!---- ### 🔗 Connect with Me
 
