@@ -27,6 +27,10 @@ I specialize in developing mobile applications using the following technologies:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah949&theme=blue-green)
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.username)
+
+
+
 
 
 
