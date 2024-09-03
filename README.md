@@ -1,4 +1,7 @@
-## 👋 Hi, I’m Sarah
+## 👋  Hi there
+I’m Sarah Almahfoudh Welcome to my GitHub profile!
+
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ### 👀 About Me
 I'm a passionate Mobile App Developer with a keen interest in programming and creating dynamic, user-friendly applications. Currently, I am focused on expanding my expertise in Flutter and React Native.
