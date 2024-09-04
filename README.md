@@ -1,4 +1,6 @@
-## 👋  Hi there
+## Hi There! <img src="https://github.com/Sarah949/Sarah949/blob/d2ad39fcd67b0c7498b52a5f67ed7bf8aa414b7f/wave.gif" alt="Wave GIF" width="30" high="30" /> 
+
+
 I’m Sarah Almahfoudh Welcome to my GitHub profile!
 
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
