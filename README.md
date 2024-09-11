@@ -21,6 +21,7 @@ I specialize in developing mobile applications using the following technologies:
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FIGMA Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📊 GitHub Stats
 ![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah949&theme=blue-green)
