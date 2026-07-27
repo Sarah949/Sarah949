@@ -1,7 +1,7 @@
 ## Hi There! <img src="https://github.com/Sarah949/Sarah949/blob/d2ad39fcd67b0c7498b52a5f67ed7bf8aa414b7f/wave.gif" alt="Wave GIF" width="30" high="30" /> 
 
 
-I’m Sarah Welcome to my GitHub profile!
+I’m Sarah. Welcome to my GitHub profile!
 
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
@@ -23,11 +23,24 @@ I specialize in developing mobile applications using the following technologies:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FIGMA Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 🛠️ Tools & Environments
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
 ### 📊 GitHub Stats
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah949&theme=blue-green)
+![Sarah's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sarah949&theme=blue-green)
 
 ### 🛠️ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah949&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarah949&layout=compact&theme=blue-green)
+
+### 🚀 Featured Projects
+
+* *Exciting projects are coming soon! Stay tuned.* 🚧✨
+
+  
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.username)
