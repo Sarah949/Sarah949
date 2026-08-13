@@ -31,10 +31,10 @@ I specialize in developing mobile applications using the following technologies:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 📊 GitHub Stats
-![Sarah's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sarah949&theme=blue-green)
+![Sarah's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sarah949&show_icons=true&theme=blue-green)
 
 ### 🛠️ Top Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarah949&layout=compact&theme=blue-green)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Sarah949&layout=compact&theme=blue-green)
 
 ### 🚀 Featured Projects
 
