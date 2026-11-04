@@ -38,7 +38,14 @@ I specialize in developing mobile applications using the following technologies:
 
 ### 🚀 Featured Projects
 
-* *Exciting projects are coming soon! Stay tuned.* 🚧✨
+## 📱 Rateb (رتّب): Home Cleaning Routine
+
+A Flutter app that helps you organize your home cleaning with daily, weekly and monthly tasks.
+
+🧪 **Now in beta testing! Want to try it?**
+1. Join the testers group: [rateb-testers](https://groups.google.com/g/rateb-testers)
+2. Install the app: [Google Play (testing)](https://play.google.com/apps/testing/com.khidrim.rateb)
+
 
   
 
